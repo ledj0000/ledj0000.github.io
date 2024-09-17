@@ -16,7 +16,7 @@
 </head>
 <body>
   <h1>Ledj Unblocked Games</h1>
-  <button onclick="window.location.href='https://mnps.schoology.com/'">Visit Schoology</button>
+  <a href="https://mnps.schoology.com/"><button>Visit Schoology</button></a>
   <!-- Add your game content here -->
 </body>
 </html>
